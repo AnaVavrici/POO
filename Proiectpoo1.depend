@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1686693138 source:c:\users\admin\desktop\propleme c++\proiectpoo1\main.cpp
+	<iostream>
+	"Angajat.h"
+	"Client.h"
+	"Camera.h"
+	"Hotel.h"
+	"bits/stdc++.h"
+	"fstream"
+
+1681378681 source:c:\users\admin\desktop\propleme c++\proiectpoo1\src\angajat.cpp
+	"Angajat.h"
+
+1686688222 c:\users\admin\desktop\propleme c++\proiectpoo1\include\angajat.h
+	<bits/stdc++.h>
+	<string.h>
+	<iostream>
+
+1681378681 source:c:\users\admin\desktop\propleme c++\proiectpoo1\src\client.cpp
+	"Client.h"
+
+1686688133 c:\users\admin\desktop\propleme c++\proiectpoo1\include\client.h
+	<string.h>
+	<bits/stdc++.h>
+	<iostream>
+
+1681378681 source:c:\users\admin\desktop\propleme c++\proiectpoo1\src\camera.cpp
+	"Camera.h"
+
+1686693460 c:\users\admin\desktop\propleme c++\proiectpoo1\include\camera.h
+	<string.h>
+	<bits/stdc++.h>
+	<iostream>
+
+1686688806 c:\users\admin\desktop\propleme c++\proiectpoo1\include\hotel.h
+	<string.h>
+	<bits/stdc++.h>
+	<iostream>
+	"Camera.h"
+	"Client.h"
+	"Angajat.h"
+	"iostream"
+
+1686482873 source:c:\users\admin\desktop\propleme c++\proiectpoo1\src\hotel.cpp
+	"Hotel.h"
+
